@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melone</h1>
-<h3 align="center">Full-Stack Developer | DevOps | AI & Data Science Practitioner</h3>
+<h3 align="center">Full-Stack Developer | DevOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andymelone&label=Profile%20views&color=0e75b6&style=flat" alt="andymelone" /> </p>
 
